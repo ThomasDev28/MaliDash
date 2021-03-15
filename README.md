@@ -1,2 +1,2 @@
 # MaliDash
-exercice
+Bonjour j'ecris quelques mots
